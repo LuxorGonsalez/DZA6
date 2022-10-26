@@ -1,9 +1,5 @@
 package ru.netology.delivery.test;
 
-import com.codeborne.selenide.logevents.SelenideLogger;
-import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
